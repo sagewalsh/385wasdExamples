@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class CameraBehavior : MonoBehaviour
 {
+    // Variables for Camera Zoom
     private Camera cam;
 
     private float targetZoom;
